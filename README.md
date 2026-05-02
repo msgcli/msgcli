@@ -49,40 +49,16 @@ irm https://msgcli.org/install.ps1 | iex
 
 ## Quick Start
 
-### 1. Hybrid Mode (Server + Client)
-
-Start a local server and connect as a client in one command:
+Start a local server and connect as a client:
 
 ```bash
-msg leo --key my-secret-key
+msg leo
 ```
 
-Others can connect to your machine using your IP address:
+Connect from another machine:
 
 ```bash
-msg jim@192.168.1.5 --key my-secret-key
-```
-
-### 2. Dedicated Server
-
-Run a standalone server on a public or private host:
-
-```bash
-msg --server MyServer --key my-secret-key --port 62818
-```
-
-Then connect from another machine:
-
-```bash
-msg jim@192.168.1.5:62818 --key my-secret-key
-```
-
-### 3. Client Only
-
-Connect to an existing server using full parameters:
-
-```bash
-msg --user jim --host 192.168.1.5 --port 62818 --key my-secret-key
+msg jim@192.168.1.5
 ```
 
 ## Command Reference
