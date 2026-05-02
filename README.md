@@ -1,8 +1,7 @@
 # Msg CLI
 
 <p align="center">
-  <a href="https://msgcli.org">msgcli.org</a> ·
-  <a href="mailto:support@msgcli.org">Support</a>
+  <a href="https://msgcli.org">msgcli.org</a>
 </p>
 
 <p align="center">
@@ -31,7 +30,6 @@
 ## Prerequisites
 
 - Python 3.9 or higher
-- pip
 
 ## Installation
 
@@ -88,7 +86,7 @@ msg --server --ssl-cert cert.pem --ssl-key key.pem --key my-secret-key
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License
 
 ---
 
