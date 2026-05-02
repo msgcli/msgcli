@@ -1,18 +1,13 @@
 # Msg CLI
 
 <p align="center">
-  <img src="https://msgcli.org/og.png" alt="Msg CLI" width="120">
-</p>
-
-<p align="center">
   A lightweight tool for sending and receiving messages in the terminal.
   <br>
   Zero config, plug-and-play. Both server and client, peer-to-peer.
 </p>
 
 <p align="center">
-  <a href="https://msgcli.org">Website</a> ·
-  <a href="https://github.com/msgcli/msgcli">GitHub</a> ·
+  <a href="https://msgcli.org">msgcli.org</a> ·
   <a href="mailto:support@msgcli.org">Support</a>
 </p>
 
