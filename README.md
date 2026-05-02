@@ -1,8 +1,6 @@
 # Msg CLI
 
-<p align="center">
-  <a href="https://msgcli.org">msgcli.org</a>
-</p>
+<h2 align="center"><a href="https://msgcli.org">msgcli.org</a></h2>
 
 <p align="center">
   A lightweight CLI messaging tool over WebSocket.<br>
