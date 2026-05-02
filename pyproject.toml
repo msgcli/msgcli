@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "msgcli"
+version = "1.2.0"
+description = "Minimal CLI for sending and receiving messages over WebSocket."
+requires-python = ">=3.9"
+authors = [{name = "leo long"}]
+license = {text = "MIT"}
+dependencies = ["websockets>=10.0"]
+
+[project.optional-dependencies]
+crypto = ["cryptography>=3.0"]
+
+[project.scripts]
+msg = "msgcli.interactive:main"
