@@ -20,6 +20,7 @@
 
 - **Zero Config** — No account or config file needed; start messaging with one command
 - **Hybrid Mode** — Launch a local server and connect as a client simultaneously
+- **Peer-to-Peer Direct Connection** — Connect directly between machines without a central server
 - **Secure Encryption** — AES-GCM encryption with PBKDF2 key derivation; set a key via `--key`
 - **Offline Messages** — Messages are stored server-side and delivered when the recipient comes online
 - **WSS / TLS Support** — Run the server with SSL certificates for encrypted WebSocket connections
