@@ -1,11 +1,13 @@
 # Msg CLI
-
-<h2 align="center"><a href="https://msgcli.org">msgcli.org</a></h2>
+<h1 align="center">Msg CLI</h1>
 
 <p align="center">
-  A lightweight CLI messaging tool over WebSocket.<br>
-  Zero config, plug-and-play. Run as server, client, or both.
+  Minimalist CLI Messaging Tool<br>
+  A lightweight tool for sending and receiving messages in the terminal. <br>
+  Zero config, ready to use. Acts as both server and client, peer-to-peer direct connection.
 </p>
+
+<p align="center"><a href="https://msgcli.org">msgcli.org</a></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+">
